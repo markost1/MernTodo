@@ -22,7 +22,7 @@ Database: MongoDB (Mongoose)
 
 Quick Start
 # Clone repo
-git clone https://github.com/yourusername/mern-todo.git
+git clone https://github.com/markost1/mern-todo.git
 
 # Install backend
 cd backend
